@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Archiver.py
+Comment=GUI_for_Clinicians
+Icon=/home/pi/SedLine-Monitor/icon.png
+Exec=/home/pi/SedLine-Monitor/Archiver.py
+Terminal=false
+Type=Application

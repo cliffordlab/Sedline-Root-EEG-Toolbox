@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=UIV2.py
+Comment=GUI_for_Clinicians
+Icon=/home/pi/SedLine-Monitor/icon.png
+Exec=/home/pi/SedLine-Monitor/UIV2.py
+Terminal=false
+Type=Application
