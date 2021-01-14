@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 #	REPO:       
-#       https://github.com/cliffordlab/Sedline-EEG_Analysis
+#       https://github.com/cliffordlab/Sedline-Root-EEG-Toolbox
 #
 #   ORIGINAL SOURCE AND AUTHORS:     
 #       Pradyumna Byappanahalli Suresh
