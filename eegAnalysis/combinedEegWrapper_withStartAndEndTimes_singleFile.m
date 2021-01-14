@@ -26,13 +26,14 @@ function combinedEegWrapper_withStartAndEndTimes_singleFile(arg)
 %
 %   ORIGINAL SOURCE AND AUTHORS:     
 %       Pradyumna Byappanahalli Suresha
-%       Last Modified: January 11th, 2021
+%       Last Modified: January 14th, 2021
 %
 %	COPYRIGHT (C) 2021 
 %   LICENSE:    
-%       This software is offered freely and without warranty under 
-%       the GNU (v3 or later) public license. See license file for
-%       more information
+%       This software may be modified and distributed under the terms
+%       of the BSD 3-Clause license. See the LICENSE file in this repo for 
+%       details.
+%
 %%
 
 % Modify the local repoDirectotry name and uncomment the below line.
